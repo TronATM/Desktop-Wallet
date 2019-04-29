@@ -1,7 +1,7 @@
 {
   "name": "TronATM",
   "productName": "TronATM",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Manage your TATM and other Tron tokens in a secure fashion.",
   "main": "./main.prod.js",
   "author": {
